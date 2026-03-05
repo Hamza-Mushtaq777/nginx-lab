@@ -22,6 +22,11 @@ Configs created during an NGINX hands-on lab.
 ## HTTPS Test
 
 ![HTTPS](screenshots/https-test.png)
+
+##Rewrite, Return, Filter Examples
+
+![HTTPS](screenshots/rewrite-return-filter-examples.png)
+
 ## Quick tests
 ```bash
 curl -I http://localhost
