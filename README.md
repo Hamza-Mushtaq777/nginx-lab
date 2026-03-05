@@ -23,7 +23,7 @@ Configs created during an NGINX hands-on lab.
 
 ![HTTPS](screenshots/https-test.png)
 
-##Rewrite, Return, Filter Examples
+##**Rewrite, Return, Filter Examples**
 
 ![HTTPS](screenshots/rewrite-return-filter-examples.png)
 
