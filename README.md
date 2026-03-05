@@ -11,6 +11,17 @@ Configs created during an NGINX hands-on lab.
 - TLS termination (HTTPS on 443)
 - Rewrite/return/sub_filter examples
 
+## NGINX running
+
+![NGINX Running](screenshots/nginx-running.png)
+
+## Reverse Proxy Test
+
+![Reverse Proxy](screenshots/reverse-proxy-test.png)
+
+## HTTPS Test
+
+![HTTPS](screenshots/https-test.png)
 ## Quick tests
 ```bash
 curl -I http://localhost
